@@ -1,4 +1,5 @@
 /* CSS */
+/* puede personalizar el css a su gusto */
 /* Cargador de la página web */
 .loading-screen {
     font-size: 30px;
